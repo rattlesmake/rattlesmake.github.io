@@ -1671,10 +1671,6 @@ details a {
   }
   
 }
-/* Blend the original gold mark into the new dark surfaces. */
-img[src$="centurion-emblem.png"] {
-  mix-blend-mode:screen
-}
 @media(max-width:360px) {
   .brand>span {
     font-size:16px
